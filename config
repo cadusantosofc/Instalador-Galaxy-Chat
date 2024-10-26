@@ -1,0 +1,11 @@
+deploy_password=@SrCaduher901
+pg_pass=@SrCaduher901
+redis_pass=@SrCaduher901
+deploy_email=contato.galaxychat@gmail.com
+repositorio=https://github.com/cadusantosofc/galaxychat.git
+nome_instancia=izing1
+porta_postgre_intancia=5432
+frontend_url=painel.spacechat.shop
+frontend_porta=4000
+backend_url=apipainel.spacechat.shop
+backend_porta=3000
